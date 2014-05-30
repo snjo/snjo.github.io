@@ -1,3 +1,8 @@
+p
+{
+	text-align: left;
+}
+
 #download {
   text-align: center;
   background-color: #f5f5f5;
@@ -26,11 +31,14 @@
   margin-right: 30px;
 }
 
+.download  p {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 .info-list .nonumber:after {
   content: "";
 }
-
-/* Tutorials */
 
 .info-list {
   margin-top: 90px;
